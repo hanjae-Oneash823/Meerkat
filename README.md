@@ -15,7 +15,6 @@ CYP3A4 is responsible for metabolizing ~50% of all clinical drugs. Predicting it
 | **Training set** | ~1,681 molecules |
 | **Test set** | 100 molecules |
 | **Metric** | `Score = 0.5 × (1 − NRMSE) + 0.5 × Pearson r` |
-| **Result** | 🥉 38th place |
 
 The scoring metric penalizes both absolute error (NRMSE) and failure to capture inhibition rank order (Pearson r), requiring the model to be accurate and well-calibrated simultaneously.
 
