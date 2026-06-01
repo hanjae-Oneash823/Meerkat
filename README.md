@@ -1,5 +1,3 @@
-# Meerkat
-
 # Meerkat — CYP3A4 Inhibition Predictor
 
 A QSAR pipeline for predicting CYP3A4 enzyme inhibition (%) from molecular SMILES strings, built for the GISTomics AI-Driven Drug Discovery study group (Spring 2026).
